@@ -1,4 +1,4 @@
-
+//import sccanner 
 import java.util.Scanner;
 // this is the change
 public class HousingDecisionMaker {
